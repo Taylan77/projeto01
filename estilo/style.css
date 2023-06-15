@@ -51,13 +51,12 @@ a.externo::after{
     text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.296);
  }
 
- header > p{
+ header  p{
    font-family: var(--fonte-padrao);
    color: white;
    font-size: 1.5 em;
    width: 500px;
-   padding-right: 10px;
-   padding-left: 500px;
+   margin: auto;
    text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.275);
    padding-bottom: 30px;
 
